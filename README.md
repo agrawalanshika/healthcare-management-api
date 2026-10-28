@@ -1,4 +1,4 @@
-# 📑 Healthcare Backend API
+# 📑 Healthcare Backend
 
 A secure healthcare backend built for the WhatBytes Full Stack Intern assignment. Users can register, log in, and manage patient records, a shared doctor directory, and patient-to-doctor assignments. Authentication uses JWT, and all data is stored in PostgreSQL.
 
