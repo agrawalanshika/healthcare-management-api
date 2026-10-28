@@ -409,7 +409,7 @@ The assignment does not prescribe model fields or response shapes, so these are 
 - HTTPS redirect and HSTS are not configured; they belong to the deployment environment, which is out of scope.
 - Registration reveals whether an email is already taken, which is inherent to rejecting duplicate registrations.
 
-## 🔮 ## Future improvements
+## 🔮 Future improvements
 
 - **Login protection:** add rate limiting (DRF throttling) on login and registration, and temporary lockout after repeated failures.
 - **Token lifecycle:** add refresh tokens, logout with token blacklisting, and token rotation.
